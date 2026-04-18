@@ -304,7 +304,7 @@
 
 | Port | Type | Notes |
 |---|---|---|
-| MIDI IN | 5-pin DIN | |
+| MIDI IN | 5-pin DIN | Do not send on channels 4 or 5 — see JD-08_quirks.md |
 | MIDI OUT | 5-pin DIN | |
 | USB | USB Type-C | USB MIDI + USB audio to computer. Driver required (download from roland.com/global/support). Data-capable cable required |
 | EXT CLK IN | 3.5mm TS | Analog clock input on front panel. Syncs the step sequencer to an external pulse |

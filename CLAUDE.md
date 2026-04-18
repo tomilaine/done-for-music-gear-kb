@@ -24,7 +24,7 @@ Follow these steps:
 | TB-03 | Roland | `manuals/TB-03_eng03_W.pdf` (main), `manuals/TB-03_MIDI_Imple_e01_W.pdf` (MIDI ref) |
 | JX-03 | Roland | `manuals/JX-03_e02_W.pdf` (main), `manuals/JX-03_MIDI_Imple_e02_W.pdf` (MIDI ref) |
 | VT-4 | Roland | `manuals/VT-4_manual_eng04_W.pdf` (main), `manuals/VT-4_MIDI_Implementation_eng02_W.pdf` (MIDI ref), `manuals/VT-4_BlockDiagram_for_Audio_Chain_eng02_W.pdf` (audio chain) |
-| JD-08 | Roland | `manuals/JD-08_reference_eng01_W.pdf` (main) |
+| JD-08 | Roland | `manuals/JD-08_reference_eng01_W.pdf` (main), `JD-08_quirks.md` (quirks) |
 | KeyStep | Arturia | `manuals/KeyStep_Manual_1_1_2_EN.pdf` (main) |
 | MicroBrute | Arturia | `manuals/MicroBrute_Manual_1_1_0_EN.pdf` (main) |
 | Model D | Behringer | `manuals/Manual_Behringer_Model_D.pdf` (main) |
