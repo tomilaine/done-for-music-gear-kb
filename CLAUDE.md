@@ -31,7 +31,7 @@ Follow these steps:
 | LiveTrak L6 | Zoom | `manuals/Zoom_livetrak_L6_mixer.pdf` (main) |
 | Central Station Plus | PreSonus | `manuals/Presonus_Central-Station-PLUS_OM_2777400201_EN.pdf` (main) |
 | 6176 | UAD | `manuals/UAD_6176_compressor_preamp_Manual.pdf` (main) |
-| MPX8 | Akai | `manuals/Akai_MPX-8_manual.pdf` (main) |
+| MPX8 | Akai | `manuals/Akai_MPX-8_manual.pdf` (main), `MPX8_quirks.md` (quirks) |
 | SR16 | Alesis | `manuals/SR16 Reference Rev C.pdf` (main) |
 | SV130 Electric Violin | Yamaha | `manuals/Yamaha_Electric_Violin_SV130_WN46910_R2_en.pdf` (main) |
 | MDCB2 (Juno-60 MIDI/DCB) | — | `manuals/MDCB-2_Juno60_MIDI_to_DCB_interface.pdf` (main) |
