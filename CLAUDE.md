@@ -7,11 +7,12 @@
 - Before editing any file, show the exact proposed changes to the user and wait for explicit approval. Never write to a file based on a general "yes, go ahead" — confirmation must be given after seeing the specific content. This rule includes the CLAUDE.md file.
 
 **When a quirk is discovered:**
-Step 1. Run this when user talks about a bug, problem or other weird thing about a particular and the quirk is not documented in the manual files of the device.
-Step 2. Confirm from the user before moving forward that "Is this a new quirk that we should save for later reference?"
-Step 3. Create `<DeviceName>_quirks.md` if it doesn't exist.
-Step 4. Document the quirk with a short title, description, and workaround if known.
-Step 5. Add the file to the device table with the `(quirks)` tag if it doesn't exist yet.
+Follow these steps:
+1. Run this when user talks about a bug, problem or other weird thing about a particular and the quirk is not documented in the manual files of the device.
+2. Confirm from the user before moving forward that "Is this a new quirk that we should save for later reference?"
+3. Create `<DeviceName>_quirks.md` if it doesn't exist.
+4. Document the quirk with a short title, description, and workaround if known.
+5. Add the file to the device table with the `(quirks)` tag if it doesn't exist yet.
 
 **When a new device is added:**
 - Add a row to the device table with manufacturer and all available manual files, tagged appropriately.
